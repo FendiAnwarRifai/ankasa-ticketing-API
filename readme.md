@@ -31,7 +31,7 @@ Express.js is a web application framework for Node.js. [More about Express](http
 ## Set up .env file
 Open .env file on your favorite code editor, and copy paste this code below :
 ```
-DB_PORT= 3000
+PORT= 
 
 BASE_URL = [Backend Deploy]
 SECRET_KEY = 
@@ -90,7 +90,7 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Frontend Ticketing`](https://github.com/maulanarifai114/frontend-ankasa)
+* [`Frontend Ticketing`](https://github.com/hanifkumara/ticketing-ankasa-app)
 
 ## Contributors
 <center>
